@@ -15,7 +15,7 @@ En este tema nos centraremos en aprender cómo JavaScript aborda la programació
 ##Recomendados
 1. AMD, CommonJS, and ES6 Modules Writing Modular JavaScript: https://github.com/lukehoban/es6features
 
-## Started
+## How To
 
 Logra correr la linea base solo en 3 pasos y comenzar el nivel!
 
