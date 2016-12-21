@@ -3,8 +3,7 @@
 #Reglas
 
 ##Tiempo de entrega
-
-1. 5 semanas.
+5 semanas.
 
 ##Medición del desempeño
 
