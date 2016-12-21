@@ -1,3 +1,5 @@
+![DevLAbs logo](devlab-logo.png)
+
 #Reglas
 
 ##Tiempo de entrega
