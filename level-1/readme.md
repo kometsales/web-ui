@@ -18,7 +18,7 @@ Para esta practica debemos hacer uso del ultimo navegador Chrome o Firefox para 
 4. JSONP and CORS: http://json-p.org/ - http://www.html5rocks.com/en/tutorials/cors/
 5. Chrome console debug: https://developer.chrome.com/devtools/docs/co
 
-## Started
+## How To
 
 Logra correr la linea base solo en 3 pasos y comenzar el nivel!
 
