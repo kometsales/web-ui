@@ -1,4 +1,5 @@
-![DevLAbs logo](logo-devLabs.jpg)
+
+<img src="logo-devLabs.jpg" alt="Smiley face" height="350" width="500" align="center">
 
 #Reglas
 
