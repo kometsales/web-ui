@@ -1,4 +1,4 @@
-![DevLAbs logo](avatar-devlab.png)
+![DevLAbs logo](avatar-devlabs.png)
 
 #Node.js + Express + Handlebars
 

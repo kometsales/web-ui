@@ -1,4 +1,4 @@
-![DevLAbs logo](devlab-logo.png)
+![DevLAbs logo](logo-devLabs.png)
 
 #Reglas
 
