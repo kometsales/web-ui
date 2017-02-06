@@ -1,4 +1,4 @@
-![DevLAbs logo](avatar-devlabs.png)
+<img src="avatar-devlabs.jpg" alt="Smiley face" height="350" width="500" align="center">
 
 #Node.js + Express + Handlebars
 
