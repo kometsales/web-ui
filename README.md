@@ -28,6 +28,4 @@
 * [Level 2: OOP y herencia en JavaScript](https://github.com/kometsales/web-ui/tree/master/level-2)
 * Level 3: MVC - AngularJS
 * Level 4: API de HTML5
-* Level 5: UI - MarionetteJS → Coming soon!
-* Level 6: UI - ReactJS → Coming soon!
-* Level 7: UI - NodeJS → Coming soon!
+* Level 5: UI - ReactJS → Coming soon!
